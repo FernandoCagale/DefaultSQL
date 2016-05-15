@@ -1,0 +1,18 @@
+c:\documents and settings\junior\meus documentos\visual studio 2010\Projects\Base\Default\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\junior\meus documentos\visual studio 2010\Projects\Base\Default\bin\Debug\Default.dll
+c:\documents and settings\junior\meus documentos\visual studio 2010\Projects\Base\Default\bin\Debug\Default.pdb
+c:\documents and settings\junior\meus documentos\visual studio 2010\Projects\Base\Default\obj\Debug\Default.dll
+c:\documents and settings\junior\meus documentos\visual studio 2010\Projects\Base\Default\obj\Debug\Default.pdb
+C:\Users\Programing\Desktop\Base\Default\bin\Debug\Default.dll
+C:\Users\Programing\Desktop\Base\Default\bin\Debug\Default.pdb
+C:\Users\Programing\Desktop\Base\Default\obj\Debug\Default.dll
+C:\Users\Programing\Desktop\Base\Default\obj\Debug\Default.pdb
+C:\Documents and Settings\Junior\Desktop\Base\Default\bin\Debug\Default.dll
+C:\Documents and Settings\Junior\Desktop\Base\Default\bin\Debug\Default.pdb
+C:\Documents and Settings\Junior\Desktop\Base\Default\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Junior\Desktop\Base\Default\obj\Debug\Default.dll
+C:\Documents and Settings\Junior\Desktop\Base\Default\obj\Debug\Default.pdb
+C:\MY\Exemplos\Exemplo C#\C# Base\Base\Default\bin\Debug\Default.dll
+C:\MY\Exemplos\Exemplo C#\C# Base\Base\Default\bin\Debug\Default.pdb
+C:\MY\Exemplos\Exemplo C#\C# Base\Base\Default\obj\Debug\Default.dll
+C:\MY\Exemplos\Exemplo C#\C# Base\Base\Default\obj\Debug\Default.pdb

@@ -1,0 +1,15 @@
+C:\MY\Exemplos\Exemplo C#\C# Base\Base\Default\bin\Debug\DefaultSQL.dll
+C:\MY\Exemplos\Exemplo C#\C# Base\Base\Default\bin\Debug\DefaultSQL.pdb
+C:\MY\Exemplos\Exemplo C#\C# Base\Base\Default\obj\Debug\DefaultSQL.dll
+C:\MY\Exemplos\Exemplo C#\C# Base\Base\Default\obj\Debug\DefaultSQL.pdb
+C:\MY\Exemplos\Exemplo C#\C# Base\Base\Default\obj\Debug\DefaultSQL.csprojResolveAssemblyReference.cache
+C:\MY\Exemplos\Exemplo C#\C# Base\Base\DefaultSQL\bin\Debug\DefaultSQL.dll.config
+C:\MY\Exemplos\Exemplo C#\C# Base\Base\DefaultSQL\bin\Debug\DefaultSQL.dll
+C:\MY\Exemplos\Exemplo C#\C# Base\Base\DefaultSQL\bin\Debug\DefaultSQL.pdb
+C:\MY\Exemplos\Exemplo C#\C# Base\Base\DefaultSQL\obj\Debug\DefaultSQL.dll
+C:\MY\Exemplos\Exemplo C#\C# Base\Base\DefaultSQL\obj\Debug\DefaultSQL.pdb
+C:\Users\Fernando\Desktop\DefaultSQL\bin\Debug\DefaultSQL.dll.config
+C:\Users\Fernando\Desktop\DefaultSQL\bin\Debug\DefaultSQL.dll
+C:\Users\Fernando\Desktop\DefaultSQL\bin\Debug\DefaultSQL.pdb
+C:\Users\Fernando\Desktop\DefaultSQL\obj\Debug\DefaultSQL.dll
+C:\Users\Fernando\Desktop\DefaultSQL\obj\Debug\DefaultSQL.pdb
