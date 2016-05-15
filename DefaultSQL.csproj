@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="AttributeCustom.cs" />
     <Compile Include="CustomProperty.cs" />
+    <Compile Include="CustomPropertyForeingKey.cs" />
     <Compile Include="GenerateSQL.cs" />
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>

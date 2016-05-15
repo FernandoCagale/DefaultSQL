@@ -87,10 +87,6 @@ namespace DefaultSQL
                         foreingKey.name = info.Name;
                         foreingKey.relations = ((FieldForeingKey)attribute).relations;
                         custom.listForeingKeyCustom.Add(foreingKey);
-                        //Field field = new Field();
-                        //field.field = ((FieldForeingKey)attribute).field;
-                        //field.name = info.Name;
-                        //custom.listField.Add(field);
                     }
                     else if (attribute.GetType() == typeof(FieldOrderBy))
                     {

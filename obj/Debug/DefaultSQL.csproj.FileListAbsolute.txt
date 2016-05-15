@@ -13,3 +13,8 @@ C:\Users\Fernando\Desktop\DefaultSQL\bin\Debug\DefaultSQL.dll
 C:\Users\Fernando\Desktop\DefaultSQL\bin\Debug\DefaultSQL.pdb
 C:\Users\Fernando\Desktop\DefaultSQL\obj\Debug\DefaultSQL.dll
 C:\Users\Fernando\Desktop\DefaultSQL\obj\Debug\DefaultSQL.pdb
+C:\Users\Fernando\Desktop\C#\DefaultSQL\bin\Debug\DefaultSQL.dll.config
+C:\Users\Fernando\Desktop\C#\DefaultSQL\bin\Debug\DefaultSQL.dll
+C:\Users\Fernando\Desktop\C#\DefaultSQL\bin\Debug\DefaultSQL.pdb
+C:\Users\Fernando\Desktop\C#\DefaultSQL\obj\Debug\DefaultSQL.dll
+C:\Users\Fernando\Desktop\C#\DefaultSQL\obj\Debug\DefaultSQL.pdb
