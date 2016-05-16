@@ -542,7 +542,7 @@ Exemplo da classe de conexão, foi utilizado o [npgsql] para realizar a conexão
 
 Para ter acesso a dll **DefaultSQL.dll**, faça o clone do projeto ou download, e acesse a pasta [release], adicione a referência ou se preferir adicione o projeto para sua **Solution**. DefaultSQL foi desenvolvido utilizando o Visual Studio 2013.
 
-Qualquer sugestão de melhorias ou PR serão bem-vindas.
+Qualquer sugestão de melhorias ou PR será bem-vinda.
 
 ## License
 
