@@ -254,7 +254,7 @@ GenerateSQL.getSqlAll(Object);
 SELECT categories.id as categories_code,categories.description as categories_description, users_user.id as users_user_code,users_user.first_name as users_user_firstName,users_user.last_name as users_user_lastName,users_user.email as users_user_email FROM categories INNER JOIN users users_user ON users_user.id = categories."user"  ORDER BY categories.description ASC
 ```
 
-  O aliás é gerado da seguinte forma, nome da tabela relacionada, nome do atributo da classe e nome do atributo da tabela relacionada, foi necessário adotar está regra por causa de auto-relacionamento, para não ocorrer conflito.
+  O **aliás** é gerado da seguinte forma, nome da tabela relacionada, nome do atributo da classe e nome do atributo da tabela relacionada, foi necessário adotar está regra por causa de auto-relacionamento, para não ocorrer conflito.
 
 ```C#
 GenerateSQL.getSqlById(Object);
@@ -542,7 +542,7 @@ Exemplo da classe de conexão, foi utilizado o [npgsql] para realizar a conexão
 
 Para ter acesso a dll **DefaultSQL.dll**, faça o clone do projeto ou download, e acesse a pasta [release], adicione a referência ou se preferir adicione o projeto para sua **Solution**. DefaultSQL foi desenvolvido utilizando o Visual Studio 2013.
 
-Qualquer sugestões de melhorias ou PR serão bem-vindas.
+Qualquer sugestão de melhorias ou PR serão bem-vindas.
 
 ## License
 
