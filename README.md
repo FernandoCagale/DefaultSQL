@@ -544,5 +544,9 @@ Para ter acesso a dll **DefaultSQL.dll**, faça o clone do projeto ou download, 
 
 Qualquer sugestões de melhorias ou PR serão bem-vindas.
 
+## License
+
+Licensed under [MIT](https://github.com/FernandoCagale/DefaultSQL/blob/master/LICENSE)
+
 [npgsql]:http://www.npgsql.org/
 [release]:https://github.com/FernandoCagale/DefaultSQL/tree/master/bin/Release
