@@ -1,6 +1,6 @@
 ## DefaultSQL
 
-DefaultSQL foi desenvolvido no intuito de auxiliar nas gerações dos SQL básicos, com o foco em aplicações de conexão JDBC. DefaultSQL foi criado com base em anotações.
+DefaultSQL foi desenvolvido no intuito de auxiliar nas gerações dos SQL básicos, no qual foi criado com base em anotações.
 
 Para utilizar o DefaultSQL, basta adicionar a referência **DefaultSQL.dll** no seu projeto, e importar **using DefaultSQL;** que já estará pronto para utilizar.
 
