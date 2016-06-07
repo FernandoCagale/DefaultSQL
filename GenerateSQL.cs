@@ -30,11 +30,11 @@ namespace DefaultSQL
             {
                 if (string.IsNullOrWhiteSpace(sqlFields))
                 {
-                    sqlFields = string.Format("{1}=@{2}", custom.table.name, field.field, field.name);
+                    sqlFields = string.Format("{0}=@{1}", field.field, field.name);
                 }
                 else
                 {
-                    sqlFields += string.Format(",{1}=@{2}", custom.table.name, field.field, field.name);
+                    sqlFields += string.Format(",{0}=@{1}", field.field, field.name);
 
                 }
             }
@@ -68,14 +68,20 @@ namespace DefaultSQL
             {
                 if (string.IsNullOrWhiteSpace(sqlFields))
                 {
-                    sqlFields = string.Format("{1}", custom.table.name, field.field);
+                    sqlFields = string.Format("{0}", field.field);
                     sqlParams = string.Format("@{0}", field.name);
                 }
                 else
                 {
-                    sqlFields += string.Format(",{1}", custom.table.name, field.field);
+                    sqlFields += string.Format(",{0}", field.field);
                     sqlParams += string.Format(",@{0}", field.name);
                 }
+            }
+
+            foreach (CustomPropertyForeingKey foreingKey in custom.listForeingKeyCustom)
+            {
+                sqlFields += string.Format(",{0}", foreingKey.field);
+                sqlParams += string.Format(",@{0}", foreingKey.name);
             }
 
             string sql = string.Format("INSERT INTO {0} ({1}) VALUES ({2})", custom.table.name, sqlFields, sqlParams);
